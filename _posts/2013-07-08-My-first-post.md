@@ -68,7 +68,7 @@ $$\begin{equation}
 \end{equation}
 $$
 
-and the best linear transform from the \emph{XYZ} system to the Gaussian color model is
+and the best linear transform from the **XYZ** system to the Gaussian color model is
 
 $$\begin{equation}
     \left[ \begin{array}{c}
