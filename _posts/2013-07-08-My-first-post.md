@@ -2,6 +2,7 @@
 layout: post
 title: Gaussian Color Spaces
 ---
+
 Image formation implies physical measurements over the spectral, spatial and time dimensions. Gaussian color models are a new theory of color measurement, they are an extension of the Gaussian derivative framework (scale-space theory) to the spatio-spectral domain. One of the most important achievements in scale-space theory is the remark that Gaussian shapes prevent the creation of extra details on higher scale images (i.e. lower resolution). Gaussians offer a general probe for spatio-spectral differential quotients. Let $$E(\lambda)$$ be the spectral energy distribution of light, it is a function of $$\lambda$$, which denotes the wavelength. Let now $$G(\lambda_0,\sigma_\lambda)$$ be a Gaussian kernel of spectral scale $$\sigma_\lambda$$ and positioned at $$\lambda_0$$. The spectral energy distribution $$E(\lambda)$$ may be approximate by the Taylor expansion at $$\lambda_0$$
 
 $$
@@ -86,7 +87,8 @@ $$
 
 the product of the transformation matrices in equations (\ref{eq:XYZcolorsystem}) and (\ref{eq:XYZgaussianColor}) finally gives
 
-$$\begin{equation}
+$$
+\begin{equation}
     \left[ \begin{array}{c}
         \hat{E} \\
         \hat{E}_\lambda \\
