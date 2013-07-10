@@ -5,7 +5,7 @@ title: Publications
 
 ## Books and chapters
 
-Design of the Wave Digital Filters, Automation Control - Theory and Practice
+<i class="icon-book"></i> Design of the Wave Digital Filters, Automation Control - Theory and Practice
 ISBN: 978-953-307-039-1, InTech
 Authors: Andres Romero Mier y Terán, Bohumil Psenicka, Francisco García Ugalde.
 
