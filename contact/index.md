@@ -11,5 +11,5 @@ title: Résumé
 ## <i class="icon-keyboard icon-1x"></i> Programming Languagues
 > C/C++,  Python, Java, Javascript, Perl, PHP, Postgresql, Shell Scripting, Sql.
 
-## <i class="icon-desktop icon-1x"></i> Architectures
+## <i class="icon-desktop icon-1x"></i> Computer Architectures
 > FPGA's, PIC's, DSP (TMS320C6400), ARM processors (Cortex A9).
