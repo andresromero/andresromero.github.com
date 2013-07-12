@@ -32,11 +32,19 @@ Authors: Andres Romero Mier y Terán, Edgar Lopez, Mariko Nakano-Miyatake, Hecto
 </a>
 
 ## International Conferences
+**<i class="icon-book"></i>[DASIP 2013]Real-time covariance tracking algorithm for embedded systems**  
+Conference on Design & Architectures for Signal & Image Processing
+Authors: Andrés Romero Mier y Terán, Lionel Lacassagne, Ali Hassan Zahraee and Michèle Gouiffès.  
+October 8-10, 2013, Cagliari, Italy.  
+<a class="btn btn-small btn-info" href="#">
+    <i class="icon-file-text"></i> 
+    Read more
+</a>
 
 **<i class="icon-book"></i> [ICIP 2013] Total Bregman Divergence for Multiple Object Tracking.**<br>
 Authors: A. Romero, M.Gouiffes and L. Lacassagne
 IEEE, International Conference on Image Processing (ICIP)
-15-18 September, Melbourne, Australia.  
+15-18 September 2013, Melbourne, Australia.  
 <a class="btn btn-small btn-info" href="#">
     <i class="icon-file-text"></i> 
     Read more
