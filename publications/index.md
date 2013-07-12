@@ -9,7 +9,7 @@ title: Publications
 ISBN: 978-953-307-039-1, InTech
 Authors: Andres Romero Mier y Terán, Bohumil Psenicka, Francisco García Ugalde.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
 
@@ -19,7 +19,7 @@ Authors: Andres Romero Mier y Terán, Bohumil Psenicka, Francisco García Ugalde
 Journal of Real Time Image Processing.
 Authors: F. Laguzet, A. Romero, M. Gouiffès, L. Lacassagne, D. Etiemble, accepted.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
 
@@ -27,7 +27,7 @@ Authors: F. Laguzet, A. Romero, M. Gouiffès, L. Lacassagne, D. Etiemble, accept
 International Journal of Circuits, Systems and Signal Processing. Issue 2, Volume 2, 2008. Page(s): 340 – 346.2008
 Authors: Andres Romero Mier y Terán, Edgar Lopez, Mariko Nakano-Miyatake, Hector Perez-Meana.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
 
@@ -37,7 +37,7 @@ Conference on Design & Architectures for Signal & Image Processing
 Authors: Andrés Romero Mier y Terán, Lionel Lacassagne, Ali Hassan Zahraee and Michèle Gouiffès.  
 October 8-10, 2013, Cagliari, Italy.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
 
@@ -46,7 +46,7 @@ Authors: A. Romero, M.Gouiffes and L. Lacassagne
 IEEE, International Conference on Image Processing (ICIP)
 15-18 September 2013, Melbourne, Australia.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
 
@@ -55,7 +55,7 @@ Authors: A. Romero, M.Gouiffes and L. Lacassagne
 6th International Conference on Computer Vision / Computer Graphics Collaboration Techniques and Applications
 Berllin, Germany, June 6-7 2013.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
 
@@ -66,7 +66,7 @@ ISSN: 0302-9743 (Print) 1611-3349 (Online)
 ACCV 2012 Workshops, Part II, LNCS 7729 proceedings
 Daejeon, South Korea 2012.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
 
@@ -74,7 +74,7 @@ Daejeon, South Korea 2012.
 Authors: H. Ye, L. Lacassagne, D. Etiemble, L. Cabaret, J. Falcou, A. Romero, O. Florent 
 IEEE International Conference on Design and Architectures for Signal and Image Processing, 2012.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
 
@@ -84,14 +84,14 @@ IEEE International Conference on Signal and Image Processing Applications 2011.
 Best Student Paper Award.  
 Malaysia, November 2011.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
 
 **<i class="icon-book"></i> [ICINCO 2008] Synthesis of the Low-pass and High-pass Wave Digital Filters.**<br>
 Authors: Andres Romero Mier y Terán, Francisco. J García Ugalde, Bohumil Psenicka.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
 
@@ -99,6 +99,6 @@ Authors: Andres Romero Mier y Terán, Francisco. J García Ugalde, Bohumil Pseni
 International Conference on Signal and Image Processing (SIP 2005) IASTED-2005August 15, 2005
 Authors: Andres Romero Mier y Terán, Bohumil Psenicka, Larry Escobar Salguero.  
 <a class="btn btn-small btn-info" href="#">
-    <i class="icon-file-text"></i> 
+    <i class="icon-download-alt"></i> 
     Read more
 </a>
