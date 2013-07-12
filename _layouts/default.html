@@ -30,6 +30,50 @@
       })();
     </script>
 
+  <link rel="stylesheet" href="/static/css/zoom.css">
+  <script type="text/javascript" src="/static/js/jquery-1.4.min.js"></script>
+<script type="text/javascript" language="javascript">
+  jQuery.fn.center = function () {
+    this.css("position","absolute");
+    this.css("top", ( $(window).height() - this.height() ) / 2+$(window).scrollTop() + "px");
+    this.css("left", ( $(window).width() - this.width() ) / 2+$(window).scrollLeft() + "px");
+    return this;
+  }
+
+  $(document).ready(function() {    
+    $("#thumbnail img").click(function(e){
+    
+      $("#background").css({"opacity" : "0.7"})
+              .fadeIn("slow");      
+            
+      $("#large").html("<img src='"+$(this).parent().attr("href")+"' alt='"+$(this).attr("alt")+"' /><br/>"+$(this).attr("rel")+"")
+             .center()
+             .fadeIn("slow");     
+      
+      return false;
+    });
+      
+    $(document).keypress(function(e){
+      if(e.keyCode==27){
+        $("#background").fadeOut("slow");
+        $("#large").fadeOut("slow");
+      }
+    });
+    
+    $("#background").click(function(){
+      $("#background").fadeOut("slow");
+      $("#large").fadeOut("slow");
+    });
+    
+    $("#large").click(function(){
+      $("#background").fadeOut("slow");
+      $("#large").fadeOut("slow");
+    });
+    
+  });
+</script>
+
+
   <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
   <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
