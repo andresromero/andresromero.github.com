@@ -2,8 +2,8 @@
 layout: post
 title: 
 ---
-#About me
-Hi, I am a PhD student from [Paris Sud University XI](www.u-psud.fr), I work at the [Laboratoire de Recherche en Informatique](www.lri.fr) where I am developing on the design, acceleration and implementation of computer vision algorithms .
+## About me
+>I am a PhD student from [Paris Sud University XI](http://www.u-psud.fr), I work at the [Laboratoire de Recherche en Informatique](http://www.lri.fr) where I work on the design, acceleration and implementation of computer vision algorithms .
 
 ## <i class="icon-beaker icon-1x"></i> Research Interests
 > Computer vision, image processing, machine learning, parallel architectures, embedded systems, GPU's,  object detection and tracking, color and texture image recognition.
