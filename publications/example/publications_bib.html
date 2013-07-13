@@ -1,0 +1,126 @@
+<h1>publications.bib</h1><a name="dasip2013"></a><pre>
+@inproceedings{<a href="index.html#dasip2013">dasip2013</a>,
+  title = {{Real-time covariance tracking algorithm for embedded systems}},
+  author = {Romero Mier y Ter{\'a}n, A. and Lacassagne, L. and Hassan Zahraee, A. and Gouiff{\`e}s},
+  booktitle = {Conference on Design & Architectures for Signal & Image Processing (DASIP) proceedings.},
+  number = {Special Issue on Real-Time Color Image Processing},
+  year = {2013},
+  organization = {IEEE},
+  abstract = {{Covariance matching techniques have recently grown in interest due to their good performances for object retrieval, detection and tracking. By mixing color and texture information in a compact representation, it can be applied to various kinds of objects (textured or not, rigid or not). Unfortunately, the original version requires  heavy computations, and is difficult to execute in real-time on embedded systems. This article presents a review on different versions of the algorithm and its various applications. Then, a comprehensive study is made to reach higher level of performance on multi-core CPU architectures, by comparing different ways to structure the information, using SIMD instructions and advanced loop transformations. The execution time is reduced significantly on  two dual-core CPU architectures for embedded computing: PandaBoard with ARM Cortex-A9 and an Intel Ultra Low voltage U9300. According to our experiments on Covariance Tracking (CT), it is possible to reach a speedup of x2.2 on ARM Cortex-A9 and x2.8 on Intel U9300, when compared to the original algorithm, leading to real-time execution.
+}}
+}
+</pre>
+
+<a name="laguzet2013color"></a><pre>
+@article{<a href="index.html#laguzet2013color">laguzet2013color</a>,
+  title = {{Color tracking with contextual switching: Real-time implementation on CPU}},
+  author = {Laguzet, F. and Romero Mier y Ter{\'a}n, A. and Gouiff{\`e}s, M. and Lacassagne, L.},
+  journal = {Journal of Real Time Image Processing (JRTIP)},
+  number = {Special Issue on Real-Time Color Image Processing},
+  year = {2013},
+  publisher = {Springer},
+  abstract = {{The paper proposes a color tracking method based on the cooperation of three complementary methods:  Flock-of-Trackers (FoT), Mean-Shift tracking (MS)   and  Covariance Tracking (CT).
+While FoT is able to track  textured and/or structured objects with rigid motion,  MS can handle non rigid objects represented by a their color distribution.
+Finally, CT achieves a generic tracking  by elegantly mixing  color and texture information, but  is  more time-consuming.
+First, a comprehensive study has been made for their acceleration and their efficient execution on different multi-core CPUs.  The gains obtained  allow the real-time execution.
+Then,   improvements are proposed for each method in order to alleviate their intrinsic limitations, and make the tracking adaptive to a changing context.
+Finally, their complementary advantages are exploited  in a cooperation process.   The proposed
+  method finally provides robustness and generality, it is faster than CT alone, and more robust than FoT or MS alone.}}
+}
+</pre>
+
+<a name="romero2013icip"></a><pre>
+@inproceedings{<a href="index.html#romero2013icip">romero2013icip</a>,
+  title = {{Total Bregman Divergence for Multiple Object Tracking.}},
+  author = {Romero, A. and Gouiff{\`e}s, M. and Lacassagne, L.},
+  booktitle = {IEEE, International Conference on Image Processing (ICIP)},
+  year = {2013},
+  month = {sep.},
+  organization = {IEEE},
+  abstract = {{In this paper we propose a multi-target tracking based on the \emph{tracking-by-detection} paradigm. The problem is casted as a discrete association problem where a cost is assigned to each detection-tracklet pair and the evolution of many factors such as position, speed and appearance is observed. As new tracklets enter the scene their appearance is modeled using covariance matrices equipped with the total Bregman divergence to perform the comparisons and robust model updates. Our method provides near-state of the art results in terms of accuracy and is able to execute in real-time.}}
+}
+</pre>
+
+<a name="romero2013mirage"></a><pre>
+@inproceedings{<a href="index.html#romero2013mirage">romero2013mirage</a>,
+  title = {{Enhanced Local Binary Covariance Matrices {ELBCM} for texture analysis and object tracking}},
+  author = {Romero, A. and Gouiff{\`e}s, M. and Lacassagne, L.},
+  booktitle = {MIRAGE 2013, Berlin, Germany. ACM International Conference Proceedings Series},
+  pages = {},
+  year = {2013},
+  organization = {Association for Computing Machinery},
+  abstract = {{This paper presents a novel way to embed local binary texture information in the form of local binary patterns (LBP) into the covariance descriptor. Contrary to previous publications, our method is not based on the LBP decimal values where arithmetic operations have no texture meaning. Our method uses the angles described by the uniform LBP patterns and includes them into the set of features used to build the covariance descriptor. Our representation is not only more compact but more robust because it is less affected by noise and small neighborhood rotations. Experimental evaluations corroborate the performance of our descriptor for texture analysis and tracking applications. Our descriptor rivals with state-of-the-art methods and beats other covariance-based descriptors.}}
+}
+</pre>
+
+<a name="romero2012accv"></a><pre>
+@inproceedings{<a href="index.html#romero2012accv">romero2012accv</a>,
+  title = {Covariance Descriptor Multiple Object Tracking and Re-Identification with Colorspace Evaluation},
+  author = {Romero, A. and Gouiff{\`e}s, M. and Lacassagne, L.},
+  booktitle = {ACCV 2012 Workshops, Part II, LNCS 7729 proceedings},
+  pages = {},
+  year = {2012},
+  organization = {Springerlink},
+  abstract = {{This paper addresses the multi-target tracking problem with the help of a  matching method where moving objects are detected in each frame, tracked when it is possible and matched by similarity of covariance matrices when difficulties arrive. Three contributions are proposed. First, a compact vector based on color invariants and Local Binary Patterns Variance is compared to more classical features vectors. To accelerate object re-identification, our second proposal is the use of a more efficient arrangement of the covariance matrices. Finally, a multiple-target algorithm with special attention in occlusion handling, merging and separation of the targets is analyzed. Our experiments show the relevance of the method, illustrating the trade-off that has to be made between distinctiveness, invariance and compactness of the features.}}
+}
+</pre>
+
+<a name="6144104"></a><pre>
+@inproceedings{<a href="index.html#6144104">6144104</a>,
+  author = {Romero, A. and Gouiff{\`e}s, M. and Lacassagne, L.},
+  booktitle = {Signal and Image Processing Applications (ICSIPA), 2011 IEEE International Conference on},
+  title = {Feature points tracking adaptive to saturation},
+  year = {2011},
+  month = {nov.},
+  volume = {},
+  number = {},
+  pages = {277 -282},
+  keywords = {classical color tracking;color invariants;color representation;color saturation;color tracking strategy;computational cost;feature points tracking;illumination variations;image sequences;luminance change;luminance information;photometric invariance;saturation change;separability power;image colour analysis;image representation;image sequences;lighting;object tracking;},
+  doi = {10.1109/ICSIPA.2011.6144104},
+  issn = {},
+  abstract = {{This paper proposes a color tracking strategy designed to improve the robustness against luminance and saturation changes due to illumination variations. On the one hand, color is helpful in terms of photometric invariance and separability power. On the other hand, it is more costly in time and resources and most color invariants are ill-defined at low saturation. To answer these issues, the proposed method weights the color and luminance information adaptively with respect to the current color saturation. A particular attention is also given to chose a color representation with low computational cost. The method is compared to classical color tracking in terms of accuracy, robustness and executing times. The experimental results achieved on several image sequences confirm the good performances of the method.}}
+}
+</pre>
+
+<a name="psenicka2009design"></a><pre>
+@chapter{<a href="index.html#psenicka2009design">psenicka2009design</a>,
+  title = {Design of the Wave Digital Filters},
+  author = {Psenicka, Bohumil and Ugalde, Francisco Garcia and Romero, Andr{\'e}s},
+  year = {2009},
+  publisher = {InTech}
+}
+</pre>
+
+<a name="romero2008h"></a><pre>
+@article{<a href="index.html#romero2008h">romero2008h</a>,
+  title = {H, Perez-Meana, A Hybrid Noise Canceling Structure with Secondary Path Estimation},
+  author = {A. Romero and M. Nakano-Miyatake},
+  journal = {WSEAS Recent Advances in Systems, Communications and Computers},
+  pages = {194--199},
+  year = {2008}
+}
+</pre>
+
+<a name="psenicka2008"></a><pre>
+@inproceedings{<a href="index.html#psenicka2008">psenicka2008</a>,
+  author = {B. Psenicka and
+               Francisco J. Garc\'{\i}a-Ugalde and
+               A. Romero Mier y Ter{\'a}n},
+  title = {Synthesis of the Low-pass and High-pass Wave Digital Filters},
+  booktitle = {ICINCO-SPSMC},
+  year = {2008},
+  pages = {225-231},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+</pre>
+
+<a name="Psenicka"></a><pre>
+@inproceedings{<a href="index.html#Psenicka">Psenicka</a>,
+  title = {Synthesis of digital structure by matrix method},
+  booktitle = {Proceedings of the 7th IASTED International Conference on Signal and Image Processing},
+  author = {B. Psenicka and F.G. Ugalde and L.E. Salguero and A. Romero},
+  pages = {190--194},
+  year = {2005}
+}
+</pre>
+
