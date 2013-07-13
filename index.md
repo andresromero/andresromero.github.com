@@ -15,7 +15,7 @@ title:
 <div>
 <ul id="posts">
   {% for post in site.posts %}
-      <a href="{{ post.url }}">{{ post.title }}</a><span class='four columns offset-by-five'>{{ post.date | date: "%b %Y" }}</span><br>
+      {{ post.date | date: "%d %b %Y" }} <a href="{{ post.url }}">{{ post.title }}</a><br>
   {% endfor %}
 </ul>
 </div>
