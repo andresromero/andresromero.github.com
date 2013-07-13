@@ -2,12 +2,12 @@
 layout: default
 blog: true
 ---
-<article class='ten columns offset-by-five' id="article-content">
-  <header class="ten columns" id="article-header">
+<article class='sixteen columns' id="article-content">
+  <header class="sixteen columns" id="article-header">
     <h1>{{ page.title }}</h1>
   </header>
 
-  <div class='ten columns gray' id="date-header">
+  <div class='sixteen columns gray' id="date-header">
     <p>
       {{ page.date | date: "%b %Y" }}
   {% if page.updated_at %}
@@ -17,11 +17,11 @@ blog: true
 
   </div>
 
-  <div class="ten columns" id="article-content">
+  <div class="sixteen columns" id="article-content">
     {{ content }}
   </div>
 
-  <footer class="ten columns">
+  <footer class="sixteen columns">
     <p id='follow'>
       You should follow me on Twitter <a href="http://twitter.com/andresrommier" target="_blank" onClick="_gaq.push(['_trackEvent', 'Post', 'Click', 'Twitter']);">here </a>.
     </p>
