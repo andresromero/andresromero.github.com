@@ -1,87 +1,36 @@
-<head>
-  <script src="/static/js/masonry.pkgd.js"></script>
-  <script src="/static/js/masonry.pkgd.min.js"></script>
-  <script type="text/javascript" src="/static/js/classie.js"></script>
-
-  <style type="text/css">
-      * {
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-      }
-
-      body { font-family: sans-serif; }
-
-      .masonry {
-        background: #EEE;
-        max-width: 80%;
-      }
-
-      /* clearfix */
-      .masonry:after {
-        content: '';
-        display: block;
-        clear: both;
-      }
-
-      .masonry .item {
-        width:  200px;
-        height: 200px;
-        float: left;
-        background: #D26;
-        border: 2px solid #333;
-        border-color: hsla(0, 0%, 0%, 0.5);
-        border-radius: 5px;
-      }
-
-      .item.w2 { width:  400px; }
-      .item.w3 { width:  600px; }
-      .item.w4 { width:  800px; }
-
-      .item.h2 { height: 400px; }
-      .item.h3 { height: 600px; }
-      .item.h4 { height: 800px; }
-
-      .item.gigante {
-        width: 500px;
-        height: 500px;
-      }
-
-      .item:hover {
-        background: #A2C;
-        border-color: white;
-        cursor: pointer;
-      }
-  </style>
-
-  <script type="text/javascript">
-        // http://masonry.desandro.com/masonry.pkgd.js added as external resource
-      // https://rawgithub.com/desandro/classie/master/classie.js added
-
-      docReady( function() {
-
-        var container = document.querySelector('.masonry');
-        var msnry = new Masonry( container, {
-          columnWidth: 60
-        });
-
-
-        eventie.bind( container, 'click', function( event ) {
-          // don't proceed if item was not clicked on
-          if ( !classie.has( event.target, 'item' ) ) {
-            return;
-          }
-          // change size of item via class
-          classie.toggle( event.target, 'gigante' );
-          // trigger layout
-          msnry.layout();
-        });
-
-      });
-  </script>
-</head>
-<body>
- {{content}}
-</body>
-<footer>
-</footer>
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Loading Effects for Grid Items | Demo 1</title>
+    <meta name="description" content="Loading Effects for Grid Items with CSS Animations" />
+    <meta name="keywords" content="css animation, loading effect, google plus, grid items, masonry" />
+    <meta name="author" content="Codrops" />
+    <link rel="shortcut icon" href="../favicon.ico"> 
+    <link rel="stylesheet" type="text/css" href="/static/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="/static/css/component.css" />
+    <script src="/static/js/modernizr.custom.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <!-- Top Navigation -->
+      <header>
+        <h1>Galería de Andrés Romero</h1> 
+      </header>
+      {{content}}
+    </div>
+    <script src="/static/js/masonry.pkgd.min.js"></script>
+    <script src="/static/js/imagesloaded.js"></script>
+    <script src="/static/js/classie.js"></script>
+    <script src="/static/js/AnimOnScroll.js"></script>
+    <script>
+      new AnimOnScroll( document.getElementById( 'grid' ), {
+        minDuration : 0.4,
+        maxDuration : 0.7,
+        viewportFactor : 0.2
+      } );
+    </script>
+  </body>
+</html>
