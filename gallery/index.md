@@ -2,30 +2,16 @@
 layout: masonry
 title: Masonry test
 carousel_images:
-  - /static/images/Tio Chuchis y Los 7 Hermanos.Jul 10,49 4 x 6.jpg
-  - /static/images/Tio Chuchis con la familia Mier y Teraěn Julio 10,1949 4 x 6.jpg
+  - /static/images/mieryteran1.jpg
+  - /static/images/mieryteran2.jpg
+  - /static/images/mieryteran3.jpg
   - /static/images/herran2.jpg
-  - /static/images/winter.jpg
-  - /static/images/Tio Chuchis y Los 7 Hermanos.Jul 10,49 4 x 6.jpg
-  - /static/images/winter.jpg
-  - /static/images/Tio Chuchis con la familia Mier y Teraěn Julio 10,1949 4 x 6.jpg
-  - /static/images/herran2.jpg
-  - /static/images/Tio Chuchis con la familia Mier y Teraěn Julio 10,1949 4 x 6.jpg
-  - /static/images/herran2.jpg
-  - /static/images/winter.jpg
-  - /static/images/herran2.jpg
-  - /static/images/winter.jpg
-  - /static/images/Tio Chuchis y Los 7 Hermanos.Jul 10,49 4 x 6.jpg
-  - /static/images/Tio Chuchis y Los 7 Hermanos.Jul 10,49 4 x 6.jpg
-  - /static/images/Tio Chuchis con la familia Mier y Teraěn Julio 10,1949 4 x 6.jpg
 ---
 
-<div id="container">
-	{% for img in page.carousel_images %}
-	<div class="masonryImage">
-		<div class="image">
-			<div class="trick"></div><a href="{{img}}"><img src="{{img}}"/></a>
-		</div>
-	</div>
-	{% endfor %}
-</div>
+ <h1>Masonry - layout</h1>
+  <p>Click to toggle item size</p>
+  <div class="masonry">
+   {% for img in page.carousel_images %}
+    <img class="item" src="{{ img }}" />
+   {% endfor %}
+  </div>

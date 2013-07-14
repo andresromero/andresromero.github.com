@@ -1,45 +1,109 @@
-<html>
 <head>
-<meta charset=utf-8 />
-<meta name="description" content="description">
- 
-<title>Masonry</title>
- 
-<link rel="stylesheet" type="text/css" media="screen" href="masonry.css"/>
- 
-<!--[if IE]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
- 
+  <script src="/static/js/masonry.pkgd.js"></script>
+  <script src="/static/js/masonry.pkgd.min.js"></script>
+  <script type="text/javascript" src="/static/js/classie.js"></script>
+
+  <style type="text/css">
+      * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+
+      body { font-family: sans-serif; }
+
+      .masonry {
+        background: #EEE;
+        max-width: 640px;
+      }
+
+      /* clearfix */
+      .masonry:after {
+        content: '';
+        display: block;
+        clear: both;
+      }
+
+      .masonry .item {
+        width:  60px;
+        height: 60px;
+        float: left;
+        background: #D26;
+        border: 2px solid #333;
+        border-color: hsla(0, 0%, 0%, 0.5);
+        border-radius: 5px;
+      }
+
+      .item.w2 { width:  120px; }
+      .item.w3 { width:  180px; }
+      .item.w4 { width:  240px; }
+
+      .item.h2 { height: 100px; }
+      .item.h3 { height: 130px; }
+      .item.h4 { height: 180px; }
+
+      .item.gigante {
+        width: 180px;
+        height: 180px;
+      }
+
+      .item:hover {
+        background: #A2C;
+        border-color: white;
+        cursor: pointer;
+      }
+  </style>
+
+  <script type="text/javascript">
+        // http://masonry.desandro.com/masonry.pkgd.js added as external resource
+      // https://rawgithub.com/desandro/classie/master/classie.js added
+
+      docReady( function() {
+
+        var container = document.querySelector('.masonry');
+        var msnry = new Masonry( container, {
+          columnWidth: 60
+        });
+
+
+        eventie.bind( container, 'click', function( event ) {
+          // don't proceed if item was not clicked on
+          if ( !classie.has( event.target, 'item' ) ) {
+            return;
+          }
+          // change size of item via class
+          classie.toggle( event.target, 'gigante' );
+          // trigger layout
+          msnry.layout();
+        });
+
+      });
+  </script>
 </head>
- 
 <body>
- 
- 	<div class="nav">
- 		<ul>
-	 		<li><a href="#" class="current">Masonry</a></li>
-	 		<li><a href="wookmark.html">Wookmark</a></li>
-	 		<li><a href="css.html">CSS</a></li>
-	 		<li><a href="http://designshack.net/articles/css/masonry/">Back to DS</a></li>
- 		</ul>
- 	</div>
-   
-   <script src="jquery-1.7.1.min.js"></script>
-   <script src="jquery.masonry.min.js"></script>
-   <script>
-     $(function(){
-   
-       var $container = $('#container');
-     
-       $container.imagesLoaded( function(){
-         $container.masonry({
-           itemSelector : '.masonryImage'
-         });
-       });
-     
-     });
-   </script>
-	
-   {{ content }} 
+  <h1>Masonry - layout</h1>
+  <p>Click to toggle item size</p>
+  <div class="masonry">
+    <img class="item" src="/static/images/herran2.jpg" />
+    <div class="item w2 h2"></div>
+    <div class="item h3"></div>
+    <div class="item h2"></div>
+    <div class="item w3"></div>
+    <div class="item"></div>
+    <div class="item"></div>
+    <div class="item h2"></div>
+    <div class="item w2 h3"></div>
+    <div class="item"></div>
+    <div class="item h2"></div>
+    <div class="item"></div>
+    <div class="item w2"></div>
+    <div class="item"></div>
+    <div class="item h2"></div>
+    <div class="item"></div>
+    <div class="item w3"></div>
+    <div class="item"></div>
+    <div class="item h2"></div>
+  </div>
 </body>
-</html>
+<footer>
+</footer>
