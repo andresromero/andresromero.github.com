@@ -10,19 +10,19 @@
 <!--[if IE]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
+<style type="text/css">
+body
+{
+background-image:url('/static/images/tweed.png');
+background-color:#cccccc;
+}
+</style>
  
 </head>
  
 <body>
  
- 	<div class="nav">
- 		<ul>
-	 		<li><a href="#" class="current">Masonry</a></li>
-	 		<li><a href="wookmark.html">Wookmark</a></li>
-	 		<li><a href="css.html">CSS</a></li>
-	 		<li><a href="http://designshack.net/articles/css/masonry/">Back to DS</a></li>
- 		</ul>
- 	</div>
+	{{content}}
    
    <script src="jquery-1.7.1.min.js"></script>
    <script src="jquery.masonry.min.js"></script>
@@ -39,7 +39,6 @@
      
      });
    </script>
-	
-   {{ content }} 
+ 
 </body>
 </html>

@@ -79,8 +79,8 @@ only screen and (max-device-width : 399px){
 .image {
   font-size: 0;
   text-align: center;
-  width: 399px;  /* Container's dimensions */
-  height: 399px;
+  width: 200px;  /* Container's dimensions */
+  height: 200px;
 }
 img {
   display: inline-block;
