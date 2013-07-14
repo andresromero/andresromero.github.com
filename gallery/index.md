@@ -8,7 +8,7 @@ carousel_images:
   - /static/images/herran2.jpg
 ---
 
- <h1>Masonry - layout</h1>
+ <h1>Gallery</h1>
   <p>Click to toggle item size</p>
   <div class="masonry">
    {% for img in page.carousel_images %}
