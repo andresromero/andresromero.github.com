@@ -1,7 +1,8 @@
 ---
-layout: default
-title: 
+layout: masonry
+title: Andrés Romero Mier y Terán
 ---
+
 ## About me
 I am a PhD student from the Architecture team of [Laboratoire de Recherche en Informatique](http://www.lri.fr) from [Paris Sud University XI](http://www.u-psud.fr), where I work on the design, acceleration and implementation of computer vision algorithms .
 
@@ -15,10 +16,8 @@ I am a PhD student from the Architecture team of [Laboratoire de Recherche en In
 > FPGA's, PIC's, DSP (TMS320C6400), ARM processors (Cortex A9).
 
 # Recent post's
-<div>
-<ul id="posts">
+<ul class="grid effect-2" id="grid">
   {% for post in site.posts %}
-      {{ post.date | date: "%d %b %Y" }} <a href="{{ post.url }}">{{ post.title }}</a><br>
+      <li>{{ post.date | date: "%d %b %Y" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-</div>
