@@ -8,7 +8,7 @@ First we need to install and configure `icecast2`,  then we initialize it in Ubu
 sudo service icecast2 start
 {% endhighlight %}
 
-Following these [instructions](http://askubuntu.com/questions/60837/record-a-programs-output-with-pulseaudio) it is possible to initialize a sink. To do this, in a terminal we enter
+Following Waschtl's instructions [here](http://askubuntu.com/questions/60837/record-a-programs-output-with-pulseaudio) it is possible to initialize a sink. To do this, in a terminal we enter
 
 {% highlight bash %}
 pacmd
