@@ -21,21 +21,21 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 
 body {
 	font-family: 'Lato', Calibri, Arial, sans-serif;
-	color: #6b7381;
-	background: #f2f2f2;
+	color: #F8F8F2;
+	background: #272822;
 }
 
 a {
-	color: gray;
+	color: #E6DB74;
 	text-decoration: none;
 }
 
 /*	Blockquotes  */
-blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #999; font-style: italic; }
-blockquote { margin: 0 0 20px; padding-left: 20px; padding-right: 20px; border-left: 5px solid #EA0037; }
-blockquote cite { display: block; font-size: 12px; color: #555; }
+blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #66D9EF; font-style: italic; }
+blockquote { margin: 0 0 20px; padding-left: 20px; padding-right: 20px; border-left: 5px solid #D25252; }
+blockquote cite { display: block; font-size: 12px; color: #66D9EF; }
 blockquote cite:before { content: "\2014 \0020"; }
-blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #555; }
+blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #66D9EF; }
 
 hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
 
@@ -44,7 +44,7 @@ a:active {
 	color: rgba(1,1,1,.1);
 }*/
 
-a:hover {border-bottom: 0px solid; color: black}
+a:hover {border-bottom: 0px solid; color: #BED6FF}
 
 /* Header Style */
 .container > header {
