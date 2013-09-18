@@ -16,3 +16,5 @@ title: Lectures
 
 ### CCI-IN - Informatique numérique     [C-D]
 
+### IST-G44 - Gestion des données sur Internet [A]
+[XML et programmation Internet](https://www.lri.fr/~roatis/teaching/xslt/index.html)
