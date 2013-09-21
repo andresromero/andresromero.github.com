@@ -4,7 +4,9 @@ title: Links
 ---
 ### History Of Technology, Cybernetics, Information Theory
 Bernard Dionysius Geoghegan (http://bernardg.com/)
+
 James Gleick (http://around.com/)
+
 Nichoas G Carr (http://www.nicholasgcarr.com/)
 
 ### The Machine Learning Summer School 2013 
