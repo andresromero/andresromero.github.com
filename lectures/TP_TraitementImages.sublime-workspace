@@ -1,0 +1,730 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"exha",
+				"exhaustively"
+			],
+			[
+				"orienta",
+				"orientations"
+			],
+			[
+				"cite",
+				"citeauthor"
+			],
+			[
+				"represe",
+				"representation"
+			],
+			[
+				"in",
+				"inc	#include \"…\""
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"case ",
+				"Convert Case: Title Case"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"the",
+				"Thesaurus search"
+			],
+			[
+				"thes",
+				"Thesaurus search"
+			],
+			[
+				"th",
+				"Thesaurus search"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntax latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syn c",
+				"Set Syntax: C"
+			],
+			[
+				"set syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Revert"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"vei",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/andres/.cache/.fr-ed8MZx/tp1_filtrage_APP5/Makefile",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/Makefile",
+		"/home/andres/Dropbox/andresromero.github.com/_layouts/default.html",
+		"/home/andres/Dropbox/andresromero.github.com/_layouts/masonry.html",
+		"/home/andres/Dropbox/andresromero.github.com/_site/gallery/index.html",
+		"/home/andres/Dropbox/andresromero.github.com/gallery/index.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/index.md",
+		"/home/andres/Dropbox/andresromero.github.com/contact/index.md",
+		"/home/andres/Dropbox/andresromero.github.com/_site/publications/publications_bib.html",
+		"/home/andres/Dropbox/andresromero.github.com/publications/publications.html",
+		"/home/andres/Dropbox/andresromero.github.com/publications/index.html",
+		"/home/andres/Dropbox/andresromero.github.com/index.md",
+		"/home/andres/Dropbox/andresromero.github.com/_layouts/post.html",
+		"/home/andres/Dropbox/andresromero.github.com/static/css/default.css",
+		"/home/andres/Dropbox/andresromero.github.com/_site/static/css/default.css",
+		"/home/andres/Dropbox/andresromero.github.com/_site/publications/css/publications.css",
+		"/home/andres/Dropbox/andresromero.github.com/_site/static/css/base.css",
+		"/home/andres/Dropbox/andresromero.github.com/stylesheets/pygments.css",
+		"/home/andres/Dropbox/andresromero.github.com/stylesheets/highlight.css",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2013-07-19-streaming-sound.md",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2013-09-06-disabling-nmi-watchdog.md",
+		"/home/andres/Dropbox/andresromero.github.com/static/css/base.css",
+		"/home/andres/Dropbox/andresromero.github.com/static/css/style.css",
+		"/home/andres/Dropbox/andresromero.github.com/_site/gallery/masonry.css",
+		"/home/andres/Dropbox/andresromero.github.com/_site/static/css/style.css",
+		"/home/andres/Dropbox/Documentos/Documentos/JRTIP2012/Revision/2012_JRTIP_revision.tex",
+		"/home/andres/Dropbox/Documentos/Documentos/dasip2013/suggestions.txt",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.out.pyg",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/ref.bib",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/chapters/informationGeometry.tex",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.tex",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/CMakeLists.txt",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/chapters/objectRepresentation.tex",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/chapters/covarianceMatching.tex",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/metathesis-v2.0/chapters/covarianceMatching.tex",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/metathesis-v2.0/test2.tex",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/metathesis-v2.0/chapters/acceleration.tex",
+		"/home/andres/Descargas/Algorithms_Unlocked.bibtex",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/chapters/detectionAndMatching.tex",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/chapters/switchingOperators.tex",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/chapters/corrections Chapitre 3.txt",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/chapters/acceleration.tex",
+		"/home/andres/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/andres/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/chapters/resume.tex",
+		"/home/andres/.config/sublime-text-2/Packages/DictionaryAutoComplete/DictionaryAutoComplete.sublime-settings",
+		"/home/andres/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/andres/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/andres/thesis/chapters/detectionAndMatching.tex",
+		"/home/andres/thesis/thesis.tex",
+		"/home/andres/thesis/chapters/objectRepresentation.tex",
+		"/home/andres/thesis/ref.bib",
+		"/home/andres/.config/sublime-text-2/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/home/andres/.config/sublime-text-2/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+		"/home/andres/thesis/chapters/cover.tex",
+		"/home/andres/thesis/chapters/switchingOperators.tex",
+		"/media/Kindle/koreader-base/kpdf.sh",
+		"/media/Kindle/launchpad/README",
+		"/media/Kindle/kindlepdfviewer/kpdf.sh",
+		"/media/Kindle/launchpad/kpdf.ini",
+		"/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty",
+		"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/chapters/cover.tex",
+		"/home/andres/.config/sublime-text-2/Packages/User/LaTeXTools Preferences.sublime-settings",
+		"/tmp/test.tex",
+		"/tmp/story-zapfino.tex",
+		"/home/andres/Dropbox/covarianceARM/thesis/demo/benchCov.c",
+		"/home/andres/Dropbox/covarianceARM/thesis/demo/CMakeLists.txt",
+		"/tmp/helloWorld.c",
+		"/home/andres/Dropbox/covarianceARM/Toolchain-ARM.cmake",
+		"/home/andres/Descargas/Pensez à  vous inscrire aux Rencontres Chercheurs !.eml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.css",
+			"*",
+			"*.css",
+			"*.html",
+			"*.css",
+			"*.html",
+			"layouts",
+			"_posts",
+			"*html",
+			"*",
+			"*.css",
+			"*.tex",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"`",
+			"–",
+			"/lectures",
+			"body",
+			"##",
+			"<br/>",
+			"        <br/>\n",
+			"<br/>",
+			"-2x",
+			"icon",
+			"blockquote",
+			"code",
+			"border",
+			"strawberry",
+			"backgr",
+			"bash",
+			"highlight",
+			".highlight",
+			"font",
+			"font-size",
+			"base",
+			"base.css",
+			"font-size",
+			"high",
+			"pygments",
+			"highlight",
+			"font",
+			"highlight",
+			"font-size",
+			"highlight",
+			"software deve",
+			"\\begin{minipage}",
+			"\\end{itemize}",
+			"loop_inter",
+			"minipage",
+			"minted",
+			"minipage",
+			"notations",
+			"body2",
+			"body1",
+			"body2",
+			"significand",
+			"outer",
+			"innter",
+			"NBODIES",
+			"listing",
+			"mantissa",
+			"/figures/AoSvsSoA.pdf",
+			"minted",
+			"multi-thre",
+			"Intel Core i7",
+			"\\mathit{ii}",
+			"\\mathit{i}",
+			"\\begin{algo",
+			"aligned",
+			"Single Instruction Multiple Data",
+			"related",
+			"body2",
+			"blockin",
+			"i",
+			"subfloat",
+			"\\begin{subfigure}",
+			"subfig",
+			"lstlisting",
+			"ulh",
+			"approx",
+			"quote",
+			"GreenYellow",
+			"table",
+			"l1_brightness_saturation",
+			"ssub:color_features",
+			"In this section",
+			"\\it",
+			"Source Code Pro",
+			"Times New Roman",
+			"Simonetta",
+			"\\ref",
+			"\\ref{",
+			"Section~",
+			"\\textbf{TBD}",
+			"\\textbf{MRC}",
+			"MRC",
+			"\\textbf{MRC}",
+			"{case}",
+			"x",
+			"Julius Sans One",
+			"}\n",
+			"I",
+			"Black",
+			"Gilda Display",
+			"/mnt/us/kindlepdfviewer",
+			"C",
+			"C_",
+			"x_",
+			"x",
+			"C",
+			"Black",
+			"BCI",
+			"DTI",
+			"SPD",
+			"spd",
+			"SIFT",
+			"FAST",
+			"Pixel",
+			"width",
+			"GreenYellow",
+			"Plum",
+			"YellowOrange",
+			"2.5",
+			"GreenYellow",
+			"lbp",
+			"LBP",
+			"GRCM",
+			"ELBCM",
+			"\\emph{DoG}",
+			"\\emph{LoG}",
+			"}) ",
+			"(\\emph{LoG})",
+			"\\emph{LoG}",
+			"\\emph{SIFT}",
+			" \\emph{SIFT}",
+			"SIFT",
+			"\\emph{SSD}",
+			"SSD",
+			"\\emph{KLT}",
+			"KLT",
+			"sffamily",
+			"width"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sub:l1_brightness_saturation",
+			"l1_brightness_saturation",
+			"\\emph{MRC}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 546.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"make",
+				"/home/andres/.cache/.fr-ed8MZx/tp1_filtrage_APP5/Makefile"
+			],
+			[
+				"post",
+				"_posts/2013-07-19-streaming-sound.md"
+			],
+			[
+				"inde",
+				"publications/index.html"
+			],
+			[
+				"lec",
+				"lectures/index.md"
+			],
+			[
+				"posts",
+				"_posts/2013-07-08-My-first-post.md"
+			],
+			[
+				"link",
+				"links/index.md"
+			],
+			[
+				"links",
+				"links/index.md"
+			],
+			[
+				"le",
+				"lectures/index.md"
+			],
+			[
+				"",
+				"links/index.md"
+			],
+			[
+				"lectr",
+				"lectures/index.md"
+			],
+			[
+				"defa",
+				"_layouts/default.html"
+			],
+			[
+				"default",
+				"_site/static/css/default.css"
+			],
+			[
+				"mason",
+				"_layouts/masonry.html"
+			],
+			[
+				"lectur",
+				"lectures/index.md"
+			],
+			[
+				"index",
+				"index.md"
+			],
+			[
+				"publica",
+				"publications/index.html"
+			],
+			[
+				"publicatins",
+				"_site/publications/publications_bib.html"
+			],
+			[
+				"index.md",
+				"contact/index.md"
+			],
+			[
+				"gallery/inde",
+				"gallery/index.md"
+			],
+			[
+				"gall",
+				"_site/gallery/index.html"
+			],
+			[
+				"lay",
+				"_layouts/masonry.html"
+			],
+			[
+				"20",
+				"_posts/2013-07-19-streaming-sound.md"
+			],
+			[
+				"pyg",
+				"stylesheets/pygments.css"
+			],
+			[
+				"hi",
+				"stylesheets/highlight.css"
+			],
+			[
+				"css",
+				"_site/gallery/masonry.css"
+			],
+			[
+				"style.",
+				"static/css/style.css"
+			],
+			[
+				"post.",
+				"_layouts/post.html"
+			],
+			[
+				"_layou",
+				"_layouts/post.html"
+			],
+			[
+				"defau",
+				"static/css/default.css"
+			],
+			[
+				"html",
+				"publications/index.html"
+			],
+			[
+				"_layout",
+				"_layouts/masonry.html"
+			],
+			[
+				"tex",
+				"optimization.tex"
+			],
+			[
+				"dra",
+				"dasip_draft.tex"
+			],
+			[
+				"poster",
+				"beamer_poster_demo.tex"
+			],
+			[
+				"ref",
+				"ref.bib"
+			],
+			[
+				"thesis",
+				"thesis.tex"
+			],
+			[
+				"cmake",
+				"CMakeLists.txt"
+			],
+			[
+				"thesis.tex",
+				"thesis.tex"
+			],
+			[
+				"thtes",
+				"metathesis-v2.0/test2.tex"
+			],
+			[
+				"acc",
+				"metathesis-v2.0/chapters/acceleration.tex"
+			],
+			[
+				"ac",
+				"chapters/acceleration.tex"
+			],
+			[
+				"obje",
+				"chapters/objectRepresentation.tex"
+			],
+			[
+				"dte",
+				"chapters/detectionAndMatching.tex"
+			],
+			[
+				"thes",
+				"thesis.tex"
+			],
+			[
+				"covara",
+				"chapters/covarianceMatching.tex"
+			],
+			[
+				"corre",
+				"chapters/corrections Chapitre 3.txt"
+			],
+			[
+				"covariance",
+				"chapters/covarianceMatching.tex"
+			],
+			[
+				"swi",
+				"chapters/switchingOperators.tex"
+			],
+			[
+				"bib",
+				"ref.bib"
+			],
+			[
+				"match",
+				"chapters/detectionAndMatching.tex"
+			],
+			[
+				"mat",
+				"chapters/detectionAndMatching.tex"
+			],
+			[
+				"benchcov",
+				"thesis/demo/benchCov.c"
+			],
+			[
+				"matc",
+				"chapters/detectionAndMatching.tex"
+			],
+			[
+				"demo/cmak",
+				"demo/CMakeLists.txt"
+			],
+			[
+				"match.tex",
+				"chapters/detectionAndMatching.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"mul",
+				"/home/andres/Dropbox/multiTracking/multiTracker.sublime-project"
+			],
+			[
+				"",
+				"/home/andres/Dropbox/ATER_Enseignements/ATER.sublime-project"
+			],
+			[
+				"THES",
+				"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.sublime-project"
+			],
+			[
+				"ater",
+				"/home/andres/Dropbox/andresromero.github.com/_site/gallery/ATER.sublime-project"
+			],
+			[
+				"the",
+				"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.sublime-project"
+			],
+			[
+				"thes",
+				"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.sublime-project"
+			],
+			[
+				"thesi",
+				"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.sublime-project"
+			],
+			[
+				"cur",
+				"/home/andres/Dropbox/Documentos/Curriculum/curriculum.sublime-project"
+			],
+			[
+				"dasip",
+				"/home/andres/Dropbox/Documentos/Documentos/dasip2013/article_dasip.sublime-project"
+			],
+			[
+				"ate",
+				"/home/andres/Dropbox/andresromero.github.com/_site/gallery/ATER.sublime-project"
+			],
+			[
+				"blog",
+				"/home/andres/Dropbox/andresromero.github.com/blog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 361.0,
+	"status_bar_visible": false
+}
