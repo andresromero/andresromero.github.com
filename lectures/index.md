@@ -12,7 +12,11 @@ title: Lectures
 ### Lyc-Scilab - Python ou Scilab     [D-E]
 
 ### POLYTECH-App5-hi7-2-OUV2 - Traitement d'images     [A-E]	
-[Image Acquisition](/lectures/imageAcquisition.pdf)
+* [Image Acquisition](/lectures/imageAcquisition.pdf)
+* [Filtrage Images](/lectures/TI_Chap1_Filtre_2011_2012.pdf)
+	* [TP Filtrage Images](/lectures/tp1_filtrage_APP5.pdf)
+		* [Code source](/lectures/tp1_filtrage_APP5.zip)
+		* [Images PGM](/lectures/images_pgm.zip)
 
 ### CCI-IN - Informatique numérique     [C-D]
 
