@@ -12,7 +12,8 @@ title: Lectures
 ### Lyc-Scilab - Python ou Scilab     [D-E]
 
 ### POLYTECH-App5-hi7-2-OUV2 - Traitement d'images     [A-E]	
-preparé par Lionel Lacassagne
+Cours préparé par Lionel Lacassagne
+
 * [Image Acquisition](/lectures/imageAcquisition.pdf)
 * [Filtrage Images](/lectures/TI_Chap1_Filtre_2011_2012.pdf)
 	* [TP Filtrage Images](/lectures/tp1_filtrage_APP5.pdf)
