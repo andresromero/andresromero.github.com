@@ -106,5 +106,8 @@ s’inspirant du lissage gaussien fourni.
 # Compiler le code
 
 {% highlight bash %}
+$ unzip tp1_filtrage_APP5.zip
+$ cd tp1_filtrage_APP5
 $ make
+$ ./tp
 {% endhighlight %}
