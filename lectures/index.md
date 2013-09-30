@@ -15,10 +15,10 @@ title: Lectures
 
 Cours préparé par Lionel Lacassagne
 
-* [Instructions](/lectures/tp1.html) 
+* Instructions [online](/lectures/tp1.html) et [pdf](/lectures/tp1_filtrage_APP5.pdf)
 * [Image Acquisition](/lectures/imageAcquisition.pdf)
 * [Filtrage Images](/lectures/TI_Chap1_Filtre_2011_2012.pdf)
-	* [TP Filtrage Images](/lectures/tp1_filtrage_APP5.pdf)
+	* [TP Filtrage Images]
 		* [Code source](/lectures/tp1_filtrage_APP5.zip)
 		* [Images PGM](/lectures/images_pgm.zip)
 

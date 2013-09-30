@@ -103,11 +103,22 @@ s’inspirant du lissage gaussien fourni.
 
 2. tester les différents opérateurs sur des images avec ou sans bruit impulsionnel.
 
-# Compiler le code
+# Compiler et lancer le code
 
 {% highlight bash %}
 $ unzip tp1_filtrage_APP5.zip
 $ cd tp1_filtrage_APP5
 $ make
 $ ./tp
+{% endhighlight %}
+
+# Modifier le fichier my_paths
+
+{% highlight c %}
+#define IMAGE_SRC_PATH "PATH_TO_TP_CODE/image/images/src/"
+#define IMAGE_NOISE_PATH "PATH_TO_TP_CODE/image/images/noise/"
+#define IMAGE_DENOISE_PATH "PATH_TO_TP_CODE/image/images/denoise/" 
+#define IMAGE_CONTOUR_PATH "PATH_TO_TP_CODE/image/images/contour/" 
+#define IMAGE_THRESHOLD_PATH "PATH_TO_TP_CODE/image/images/threshold/" 
+#define IMAGE_MORPHO_PATH "PATH_TO_TP_CODE/image/images/morpho/" 
 {% endhighlight %}
