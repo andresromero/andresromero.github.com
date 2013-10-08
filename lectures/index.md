@@ -3,6 +3,11 @@ layout: masonry
 title: Lectures
 ---
 
+### NSI SETI
+* [TP0: Timing](/lectures/nsi-seti-timing.zip)
+* [TP1: Scalar](/lectures/nsi-seti-scalar.zip)
+
+
 ### Info221 - Composants logiques et architectures des ordinateurs     [C-E]
 
 ### POLYTECH-App4-g1i5-1-MOD1 - Bases de Données     [A-E]
