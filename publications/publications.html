@@ -1,3 +1,8 @@
+<ul class="grid effect-2" id="grid">
+  {% for post in site.posts %}
+      <li>{{ post.date | date: "%d %b %Y" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 <dl>
 
