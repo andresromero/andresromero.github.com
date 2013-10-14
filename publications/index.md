@@ -14,7 +14,12 @@ title: Andrés Romero Mier y Terán
 		 In <em>Conference on Design &amp; Architectures for Signal &amp; Image
 		  Processing (DASIP) proceedings.</em>, number Special Issue on Real-Time Color
 		  Image Processing. IEEE, 2013.
-		 <a href="dasip2013.pdf" class="icon-file-text">PDF</a><a href="slides/dasip2013_slides.pdf">Slides</a>
+		  <div class="table">
+		    <div class="tr">
+		      <div class="td"> <a href="dasip2013.pdf" class="icon-file-text">PDF</a></div>
+		      <div class="td"><a href="slides/dasip2013_slides.pdf">Slides</a></div>
+		    </div>
+		  </div>
 		 <a href="dasip2013.html"><img src="figures/Nehalem8-multi_eps_legend.png"/></a>
 	</li>
 	<li>
@@ -32,12 +37,19 @@ title: Andrés Romero Mier y Terán
 		  IEEE, sep. 2013.<a href="icip2013.pdf" class="icon-file-text">PDF</a>
 	</li>
 	<li>
-		<a href="mirage2013.pdf">
+		<a href="mirage2013.html">
 		<b>Enhanced Local Binary Covariance Matrices ELBCM for texture analysis
 		  and object tracking</b>.</a>
 		 A.&nbsp;Romero, M.&nbsp;Gouiff&egrave;s, and L.&nbsp;Lacassagne.
 		 In <em>MIRAGE 2013, Berlin, Germany. ACM International Conference
-		  Proceedings Series</em>. Association for Computing Machinery, 2013.<a href="mirage2013.pdf" class="icon-file-text">PDF</a>
+		  Proceedings Series</em>. Association for Computing Machinery, 2013.
+		  <div class="table">
+		    <div class="tr">
+		      <div class="td"><a href="mirage2013.pdf" class="icon-file-text">PDF</a></div>
+		      <div class="td"><a href="slides/slides_mirage2013.pdf">Slides</a></div>
+		    </div>
+		  </div>
+		  <a href="mirage2013.html"><img src="figures/lbpAnglesComplete.png"/></a>
 	</li>
 	<li>
 		<a href="accv2012.pdf">
