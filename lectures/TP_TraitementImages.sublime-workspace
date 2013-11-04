@@ -114,14 +114,26 @@
 				"buffer_size": 3778,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/morphoNR.c",
+			"settings":
+			{
+				"buffer_size": 4185,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 186.0,
 		"selected_items":
 		[
+			[
+				"ctags",
+				"CTags: Rebuild Tags"
+			],
 			[
 				"ct",
 				"CTags: Rebuild Tags"
@@ -476,7 +488,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 10,
 			"sheets":
 			[
 				{
@@ -525,7 +537,7 @@
 						{
 							"syntax": "Packages/C++/C++.tmLanguage"
 						},
-						"translation.x": 187.0,
+						"translation.x": 0.0,
 						"translation.y": 300.0,
 						"zoom_level": 1.0
 					},
@@ -636,7 +648,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2550.0,
+						"translation.y": 2520.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -653,8 +665,8 @@
 						"selection":
 						[
 							[
-								450,
-								450
+								304,
+								344
 							]
 						],
 						"settings":
@@ -662,7 +674,7 @@
 							"syntax": "Packages/C++/C.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 254.0,
+						"translation.y": 315.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -690,7 +702,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 9894.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -733,8 +745,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								2028,
+								2028
 							]
 						],
 						"settings":
@@ -744,7 +756,33 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1975.0,
+						"translation.y": 1662.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/morphoNR.c",
+					"settings":
+					{
+						"buffer_size": 4185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -802,12 +840,24 @@
 		"selected_items":
 		[
 			[
-				"lut",
-				"lutNR.c"
+				"morp",
+				"morphoNR.c"
 			],
 			[
 				"filter",
 				"filterNR.c"
+			],
+			[
+				"lut",
+				"lutNR.c"
+			],
+			[
+				"main",
+				"main.c"
+			],
+			[
+				"",
+				"lutNR.c"
 			],
 			[
 				"mai",
@@ -844,10 +894,6 @@
 			[
 				"path",
 				"my_paths.h"
-			],
-			[
-				"",
-				"Makefile"
 			],
 			[
 				"make",
@@ -1074,12 +1120,16 @@
 		"selected_items":
 		[
 			[
-				"mul",
-				"/home/andres/Dropbox/multiTracking/multiTracker.sublime-project"
+				"blog",
+				"/home/andres/Dropbox/andresromero.github.com/blog.sublime-project"
 			],
 			[
 				"",
-				"/home/andres/Dropbox/ATER_Enseignements/ATER.sublime-project"
+				"/home/andres/Dropbox/bitácora/bitacora.sublime-project"
+			],
+			[
+				"mul",
+				"/home/andres/Dropbox/multiTracking/multiTracker.sublime-project"
 			],
 			[
 				"THES",
@@ -1112,10 +1162,6 @@
 			[
 				"ate",
 				"/home/andres/Dropbox/andresromero.github.com/_site/gallery/ATER.sublime-project"
-			],
-			[
-				"blog",
-				"/home/andres/Dropbox/andresromero.github.com/blog.sublime-project"
 			]
 		],
 		"width": 380.0

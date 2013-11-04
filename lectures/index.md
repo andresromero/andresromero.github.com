@@ -23,6 +23,8 @@ Cours préparé par Lionel Lacassagne
 * Instructions [online](/lectures/tp1.html) et [pdf](/lectures/tp1_filtrage_APP5.pdf)
 * [Image Acquisition](/lectures/imageAcquisition.pdf)
 * [Filtrage Images](/lectures/TI_Chap1_Filtre_2011_2012.pdf)
+* [Seuillage Images](/lectures/TI_Chap1_Seuillage_2011_2012 (1).pdf)
+* [Morphologie](/lectures/TI_Chap2_Morpho_2011_2012.pdf)
 	* [TP Filtrage Images]
 		* [Code source](/lectures/tp1_filtrage_APP5.zip)
 		* [Images PGM](/lectures/images_pgm.zip)
