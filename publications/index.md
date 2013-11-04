@@ -3,12 +3,23 @@ layout: masonry
 title: Andrés Romero Mier y Terán
 ---
 <div class="container">
-	<h1>Recent publications:</h1>
-	<div class="row">
+	<h1>Conference and Journal publications:</h1>
+	<!-- <div class="row">
 		<div class="span12">
 			<div id="myCarousel" class="carousel slide" style="margin: 0 auto">
 				<div class="carousel-inner">
 					<div class="item active">
+						<div class="hero-unit">
+						    <h2>DASIP 2013</h2><em>Conference on Design and Architectures for Signal and Image Processing</em>, Oct 2013.
+						    <h3>Real-time covariance tracking algorithm for embedded systems.</h3>
+						    <h4>A.&nbsp;Romero Mier&nbsp;y Ter&aacute;n, L.&nbsp;Lacassagne, A.&nbsp;Hassan&nbsp;Zahraee, and
+					  Gouiff&egrave;s.</h4>			    
+						    <a href="dasip2013.pdf" class="btn btn-large btn-success">Read PDF</a>
+						    <a href="slides/dasip2013_slides.pdf" class="btn btn-large btn-info">Slides</a>	
+						    <a href="http://www.ecsi.org/dasip-2013" class="btn btn-large btn-default">DASIP 2013</a>
+						</div>
+					</div>
+					<div class="item">
 						<div class="hero-unit">
 						    <h2>ICIP 2013</h2><em>IEEE, International Conference on Image Processing (ICIP)</em>.
 						      IEEE, sep. 2013.
@@ -34,7 +45,7 @@ title: Andrés Romero Mier y Terán
 			</div> 
 		</div>
 	</div>  
-</div>
+</div> -->
 <div class="row">
 	<div class="container">
 		<div class="span1"></div>

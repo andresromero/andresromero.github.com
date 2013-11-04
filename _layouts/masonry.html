@@ -35,10 +35,10 @@
             opacity:1.0;
              color: #FFFFFF; 
             /*background-color:#eeeeee; */
-            background-color: #555555;
-            /*background-image:url('/static/images/banner2.png');*/
-            background-repeat:no-repeat;
-            background-size: 100% 100%;
+            /*background-color: #4682B4;*/
+            background-image:url('/static/images/mochaGrunge.png');
+            background-repeat:repeat-x;
+            /*background-size: 100% 100%;*/
             -webkit-border-radius: 6px;
             -moz-border-radius: 6px;
             border-radius: 6px; 
@@ -113,14 +113,14 @@
         }
 
         .carousel .item {
-          height: 500px;
+          height: 10%;
         }
         .carousel img {
           position: absolute;
           top: 0;
           left: 0;
           min-width: 100%;
-          height: 500px;
+          height: 10%;
         }
 
         .carousel-caption {
@@ -206,11 +206,11 @@
           }
 
           .carousel .item {
-            height: 500px;
+            height: 10%;
           }
           .carousel img {
             width: auto;
-            height: 500px;
+            height: 10%;
           }
 
           .featurette {
@@ -310,8 +310,10 @@
         <a href="/links" id="sidebar-github" class="icon-external-link-sign icon" title="Links" onClick="_gaq.push(['_trackEvent', 'Social Icons', 'Click', 'Github']);">Links</a>
     </div>
     <div class="container" class="nine columns">
-      
       {{content}}
+      <div class="footer">
+        <p>&copy; 2013 Andrés Romero Mier y Terán</p>
+      </div>
     </div>
     <script src="/static/js/jquery.js"></script>
     <script src="/static/js/bootstrap-transition.js"></script>
