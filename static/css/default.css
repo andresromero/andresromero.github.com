@@ -28,7 +28,8 @@ body {
 }
 
 a {
-	color: #555555;
+	color: #AAAAAA;
+	font-weight:bold;
 	text-decoration: none;
 }
 
@@ -41,14 +42,14 @@ blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color:
 
 hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
 
-/*a:hover,
+a:hover,
 a:active {
 	color: r555555(1,1,1,.1);
-}*/
+}
 
 h1 {color:#F555555;}
 
-a:hover {border-bottom: 0px solid; color: #555555; text-decoration: none;}
+a:hover {border-bottom: 0px solid; color: #00000; text-decoration: none;}
 
 /* Header Style */
 .container > header {
