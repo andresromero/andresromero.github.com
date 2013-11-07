@@ -39,8 +39,8 @@ title: Andrés Romero Mier y Terán
 					    <h3>Real-time covariance tracking algorithm for embedded systems.</h3>
 					    <h4>A.&nbsp;Romero Mier&nbsp;y Ter&aacute;n, L.&nbsp;Lacassagne, A.&nbsp;Hassan&nbsp;Zahraee, and
 				  Gouiff&egrave;s.</h4>			    
-					    <a href="dasip2013.pdf" class="btn btn-large btn-success">Read PDF</a>
-					    <a href="slides/dasip2013_slides.pdf" class="btn btn-large btn-info">Slides</a>	
+					    <a href="publications/dasip2013.pdf" class="btn btn-large btn-success">Read PDF</a>
+					    <a href="publications/slides/dasip2013_slides.pdf" class="btn btn-large btn-info">Slides</a>	
 					    <a href="http://www.ecsi.org/dasip-2013" class="btn btn-large btn-default">DASIP 2013</a>
 					</div>
 				</div>
@@ -50,7 +50,7 @@ title: Andrés Romero Mier y Terán
 					      IEEE, sep. 2013.
 					    <h3>Total Bregman Divergence for Multiple Object Tracking.</h3>
 					    <h4>A.&nbsp;Romero, M.&nbsp;Gouiff&egrave;s, and L.&nbsp;Lacassagne.</h4>			    
-					    <a href="icip2013.pdf" class="btn btn-large btn-success">Read PDF</a>
+					    <a href="publications/icip2013.pdf" class="btn btn-large btn-success">Read PDF</a>
 					    <a href="http://www.icip13.org/" class="btn btn-large btn-default">ICIP 2013</a>	
 					</div>
 				</div>
@@ -59,8 +59,8 @@ title: Andrés Romero Mier y Terán
 					    <h2>Mirage 2013</h2><em>6th International Conference on Computer Vision / Computer Graphics Collaboration Techniques and Applications</em>.			      
 					    <h3>Enhanced Local Binary Covariance Descriptor for texture analysis and object tracking</h3> 
 					    <h4>A.&nbsp;Romero, M.&nbsp;Gouiff&egrave;s, and L.&nbsp;Lacassagne.</h4>	
-					    <a href="mirage2013.pdf" class="btn btn-large btn-success">Read PDF</a>
-					    <a href="slides/slides_mirage2013.pdf" class="btn btn-large btn-info">Slides</a>
+					    <a href="publications/mirage2013.pdf" class="btn btn-large btn-success">Read PDF</a>
+					    <a href="publications/slides/slides_mirage2013.pdf" class="btn btn-large btn-info">Slides</a>
 					    <a href="http://mirage2013.hhi.fraunhofer.de/index.html" class="btn btn-large btn-default">Mirage 2013</a>
 					</div>
 				</div>
