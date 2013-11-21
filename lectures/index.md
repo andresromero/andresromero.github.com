@@ -25,9 +25,13 @@ Cours préparé par Lionel Lacassagne
 * [Filtrage Images](/lectures/TI_Chap1_Filtre_2011_2012.pdf)
 * [Seuillage Images](/lectures/TI_Chap1_Seuillage_2011_2012 (1).pdf)
 * [Morphologie](/lectures/TI_Chap2_Morpho_2011_2012.pdf)
-	* [TP Filtrage Images]
+	* TP Filtrage Images
 		* [Code source](/lectures/tp1_filtrage_APP5.zip)
 		* [Images PGM](/lectures/images_pgm.zip)
+* Codage SIMD
+	* TP Détection Mouvement
+		* [Énoncé](/lectures/tp-tivi3.pdf)
+		* [Code source](/lectures/tp1_filtrage_APP5.zip)
 
 ### CCI-IN - Informatique numérique     [C-D]
 

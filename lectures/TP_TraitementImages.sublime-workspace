@@ -36,51 +36,11 @@
 	"buffers":
 	[
 		{
-			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/Makefile",
+			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/main.c",
 			"settings":
 			{
-				"buffer_size": 1264,
+				"buffer_size": 369,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/my_paths.h",
-			"settings":
-			{
-				"buffer_size": 1051,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/nrutil.c",
-			"settings":
-			{
-				"buffer_size": 54648,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/mutil.c",
-			"settings":
-			{
-				"buffer_size": 4887,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/gauss.c",
-			"settings":
-			{
-				"buffer_size": 761,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/filterNR.c",
-			"settings":
-			{
-				"buffer_size": 3530,
-				"line_ending": "Windows"
 			}
 		},
 		{
@@ -100,26 +60,10 @@
 			}
 		},
 		{
-			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/main.c",
+			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/nrutil.c",
 			"settings":
 			{
-				"buffer_size": 369,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/lutNR.c",
-			"settings":
-			{
-				"buffer_size": 3778,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/morphoNR.c",
-			"settings":
-			{
-				"buffer_size": 4185,
+				"buffer_size": 54648,
 				"line_ending": "Windows"
 			}
 		}
@@ -240,8 +184,18 @@
 	},
 	"file_history":
 	[
-		"/home/andres/.cache/.fr-ed8MZx/tp1_filtrage_APP5/Makefile",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/my_paths.h",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/nrutil.c",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/mutil.c",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/gauss.c",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/filterNR.c",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/test.c",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/test_filterNR.c",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/lutNR.c",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/morphoNR.c",
+		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/contourNR.c",
 		"/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/Makefile",
+		"/home/andres/.cache/.fr-ed8MZx/tp1_filtrage_APP5/Makefile",
 		"/home/andres/Dropbox/andresromero.github.com/_layouts/default.html",
 		"/home/andres/Dropbox/andresromero.github.com/_layouts/masonry.html",
 		"/home/andres/Dropbox/andresromero.github.com/_site/gallery/index.html",
@@ -320,6 +274,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"*.c",
 			"*.css",
 			"*",
 			"*.css",
@@ -340,6 +295,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sobel",
 			"/src",
 			"/Volumes/Delta1/Users/lacas/Code/TP/image/images",
 			"`",
@@ -466,8 +422,7 @@
 			"SIFT",
 			"\\emph{SSD}",
 			"SSD",
-			"\\emph{KLT}",
-			"KLT"
+			"\\emph{KLT}"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -488,227 +443,11 @@
 	"groups":
 	[
 		{
-			"selected": 10,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/Makefile",
-					"settings":
-					{
-						"buffer_size": 1264,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								448,
-								448
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Makefile/Makefile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/my_paths.h",
-					"settings":
-					{
-						"buffer_size": 1051,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								352,
-								352
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 300.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/nrutil.c",
-					"settings":
-					{
-						"buffer_size": 54648,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								20307,
-								20307
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 14894.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/mutil.c",
-					"settings":
-					{
-						"buffer_size": 4887,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4512,
-								4512
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4500.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/gauss.c",
-					"settings":
-					{
-						"buffer_size": 761,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 225.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/filterNR.c",
-					"settings":
-					{
-						"buffer_size": 3530,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2561,
-								2561
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2520.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/test.c",
-					"settings":
-					{
-						"buffer_size": 659,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								304,
-								344
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 315.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/test_filterNR.c",
-					"settings":
-					{
-						"buffer_size": 19345,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								19133,
-								19151
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/main.c",
 					"settings":
 					{
@@ -728,25 +467,51 @@
 							"syntax": "Packages/C++/C.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 180.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/lutNR.c",
+					"buffer": 1,
+					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/test.c",
 					"settings":
 					{
-						"buffer_size": 3778,
+						"buffer_size": 659,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2028,
-								2028
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/test_filterNR.c",
+					"settings":
+					{
+						"buffer_size": 19345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19107,
+								19125
 							]
 						],
 						"settings":
@@ -756,33 +521,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1662.0,
+						"translation.y": 11980.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/morphoNR.c",
+					"buffer": 3,
+					"file": "/home/andres/Dropbox/ATER_Enseignements/Traitement d'Images/tp1_filtrage_APP5/nrutil.c",
 					"settings":
 					{
-						"buffer_size": 4185,
+						"buffer_size": 54648,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								5894,
+								5894
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C.tmLanguage"
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3460.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -840,6 +607,10 @@
 		"selected_items":
 		[
 			[
+				"main",
+				"main.c"
+			],
+			[
 				"morp",
 				"morphoNR.c"
 			],
@@ -850,10 +621,6 @@
 			[
 				"lut",
 				"lutNR.c"
-			],
-			[
-				"main",
-				"main.c"
 			],
 			[
 				"",
@@ -1119,6 +886,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"cov",
+				"/home/andres/Dropbox/covarianceARM-3/covarianceV4-3/covarianceARM.sublime-project"
+			],
 			[
 				"blog",
 				"/home/andres/Dropbox/andresromero.github.com/blog.sublime-project"
