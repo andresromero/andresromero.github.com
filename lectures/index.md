@@ -31,7 +31,7 @@ Cours préparé par Lionel Lacassagne
 * Codage SIMD
 	* TP Détection Mouvement
 		* [Énoncé](/lectures/tp-tivi3.pdf)
-		* [Code source](/lectures/tivi-motion-SIMD.zip)
+		* [Code source](/lectures/sigmadelta_SEE.tar.gz)
 
 ### CCI-IN - Informatique numérique     [C-D]
 
