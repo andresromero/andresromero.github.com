@@ -32,6 +32,7 @@ Cours préparé par Lionel Lacassagne
 	* TP Détection Mouvement
 		* [Énoncé](/lectures/tp-tivi3.pdf)
 		* [Code source](/lectures/sigmadelta_SEE.tar.gz)
+		* [Guide Instrinsics Intel](/lectures/Intrinsics Guide for Intel(R) AVX.zip)
 
 ### CCI-IN - Informatique numérique     [C-D]
 
