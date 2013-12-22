@@ -15,3 +15,6 @@ Max Planck Institute for Intelligent Systems
 
 ### Algorithm Visualizations
 [Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+### Online learning
+[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
