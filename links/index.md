@@ -2,6 +2,9 @@
 layout: masonry
 title: Links
 ---
+### Pláticas de Ciencia y Tecnología en la Casa de México en París 
+[Historia de las Ciencias y Tecnologías de la Información](lectures/casaMéxico.pdf)
+
 ### History Of Technology, Cybernetics, Information Theory
 [Bernard Dionysius Geoghegan](http://bernardg.com/)
 
@@ -9,7 +12,6 @@ title: Links
 
 [Nichoas G Carr](http://www.nicholasgcarr.com/)
 
-[Plática en Casa de México, París, Francia](lectures/casaMéxico.pdf)
 
 ### The Machine Learning Summer School 2013 
 Max Planck Institute for Intelligent Systems
