@@ -9,6 +9,8 @@ title: Links
 
 [Nichoas G Carr](http://www.nicholasgcarr.com/)
 
+[Plática en Casa de México, París, Francia](lectures/casaMéxico.pdf)
+
 ### The Machine Learning Summer School 2013 
 Max Planck Institute for Intelligent Systems
 [Lectures](http://mlss.tuebingen.mpg.de/speakers.html)
