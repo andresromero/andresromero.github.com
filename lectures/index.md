@@ -18,7 +18,7 @@ title: Lectures
 
 ### POLYTECH-App5-hi7-2-OUV2 - Traitement d'images     [A-E]	
 
-Cours préparé par Lionel Lacassagne
+Cours préparé par Lionel Lacassagne :
 
 * Instructions [online](/lectures/tp1.html) et [pdf](/lectures/tp1_filtrage_APP5.pdf)
 * [Image Acquisition](/lectures/imageAcquisition.pdf)
@@ -36,5 +36,14 @@ Cours préparé par Lionel Lacassagne
 
 ### CCI-IN - Informatique numérique     [C-D]
 
+### Info 221
+*[C++ Impérative](http://www.doc.ic.ac.uk/~wjk/C++Intro/)
+
 ### IST-G44 - Gestion des données sur Internet [A]
-[XML et programmation Internet](https://www.lri.fr/~roatis/teaching/xslt/index.html)
+Slides et materiel :
+
+* [XML et programmation Internet](https://www.lri.fr/~roatis/teaching/xslt/index.html)
+*[Site web pour tester XPath](http://www.whitebeam.org/library/guide/TechNotes/xpathtestbed.rhtm)
+* [Introduction au XML Schema](http://www.w3schools.com/schema/schema_intro.asp)
+
+* [Exercices TD et TP](/lectures/xmlTD1.html)
