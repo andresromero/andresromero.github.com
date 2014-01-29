@@ -3,7 +3,7 @@ layout: masonry
 title: Links
 ---
 ### Pláticas de Ciencia y Tecnología en la Casa de México en París 
-[Historia de las Ciencias y Tecnologías de la Información](lectures/casaMéxico.pdf)
+[Historia de las Ciencias y Tecnologías de la Información](../lectures/casaMéxico.pdf)
 
 ### History Of Technology, Cybernetics, Information Theory
 [Bernard Dionysius Geoghegan](http://bernardg.com/)
