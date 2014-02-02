@@ -35,7 +35,7 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
 	body {
-		line-height: 1; }
+		line-height: 5; }
 	ol, ul {
 		list-style: none; }
 	blockquote, q {
@@ -151,7 +151,7 @@
 	  cursor: pointer;
 	  margin-bottom: 20px;
 	  line-height: 21px;
-	  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+	  font-family: 'Monaco',"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 	  
 	a.button:hover, 
 	button:hover {

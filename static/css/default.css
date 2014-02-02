@@ -24,7 +24,9 @@ body {
 	color: #555555;
 	/*background-image:url('/static/images/black_linen_v2.png');*/
 	/*background-color: #555555;*/
+	font-weight: 200;
 	background-color: #FFFFFF;
+	line-height:150%;
 }
 
 a {
