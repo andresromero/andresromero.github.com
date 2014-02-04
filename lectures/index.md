@@ -43,7 +43,12 @@ Cours préparé par Lionel Lacassagne :
 Slides et materiel :
 
 * [XML et programmation Internet](https://www.lri.fr/~roatis/teaching/xslt/index.html)
-*[Site web pour tester XPath](http://www.whitebeam.org/library/guide/TechNotes/xpathtestbed.rhtm)
+* [Site web pour tester XPath](http://www.whitebeam.org/library/guide/TechNotes/xpathtestbed.rhtm)
 * [Introduction au XML Schema](http://www.w3schools.com/schema/schema_intro.asp)
-
 * [Exercices TD et TP](/lectures/xmlTD1.html)
+* [Utilisation de Xalan](/lectures/xalan.html)
+
+
+
+
+
