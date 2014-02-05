@@ -14,11 +14,27 @@ Xalan est un bibliotèque Java qui permet lancer des requettes XPath et applique
 	javac ApplyXPath.java
 {% endhighlight %}
 
-Il faut donner definir les variables PATH et CLASSPATH dans le système d'exploitation.
+Pour compiler le code Java on a deux options:
+
+* Soit donner le PATHCLASS directement sur la ligne de compilation:
+
+{% highlight bash %}
+javac -cp "C:\xalan-j_2_7_1\xalan.jar" ApplyXPath.java
+{% endhighlight %}
+
+et après pour l'executer:
+
+{% highlight bash %}
+java -cp ".;C:\xalan-j_2_7_1\xalan.jar" ApplyXPath foo.xml /
+{% endhighlight %}
+
+
+* Ou soit definir les variables PATH et CLASSPATH dans le système d'exploitation. Les images montrent le cas pour Windows XP
 
 ![alt text][XalanWindows]
 
 [XalanWindows]: /static/images/xalan.png "Xalan Variables Java"
+
 
 
 ### Exemple d'exécution de la requette **/** sur le fichier **foo.xml**
