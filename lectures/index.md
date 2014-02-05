@@ -34,6 +34,9 @@ Cours préparé par Lionel Lacassagne :
 		* [Code source](/lectures/sigmadelta_SEE.tar.gz)
 		* [Guide Instrinsics Intel](/lectures/Intrinsics Guide for Intel(R) AVX.zip)
 
+### Bases de données
+[Site web de Kim Nguyen](https://www.lri.fr/~kn/teach_en.html)
+
 ### CCI-IN - Informatique numérique     [C-D]
 
 ### Info 221
