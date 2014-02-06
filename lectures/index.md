@@ -35,11 +35,9 @@ Cours préparé par Lionel Lacassagne :
 		* [Guide Instrinsics Intel](/lectures/Intrinsics Guide for Intel(R) AVX.zip)
 
 ### Bases de données
-[Site web de Kim Nguyen](https://www.lri.fr/~kn/teach_en.html)
-
-[A postgresql cheat sheet](http://blog.jasonmeridth.com/2012/10/02/postgresql-command-line-cheat-sheet.html)
-
-[TP's](/lectures/tp1_bd.html)
+* [Site web de Kim Nguyen](https://www.lri.fr/~kn/teach_en.html)
+* [A postgresql cheat sheet](http://blog.jasonmeridth.com/2012/10/02/postgresql-command-line-cheat-sheet.html)
+* [TP's](/lectures/tp1_bd.html)
 
 ### CCI-IN - Informatique numérique     [C-D]
 
