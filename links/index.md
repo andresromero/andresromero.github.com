@@ -25,3 +25,5 @@ Max Planck Institute for Intelligent Systems
 
 ### Online learning
 [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
+[Algorithms MIT Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
