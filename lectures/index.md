@@ -51,6 +51,7 @@ Slides et materiel :
 * [Introduction au XML Schema](http://www.w3schools.com/schema/schema_intro.asp)
 * [Exercices TD et TP](/lectures/xmlTD1.html)
 * [Utilisation de Xalan](/lectures/xalan.html)
+* [PHP et DOM](/lectures/XML/dom-php.html)
 
 
 

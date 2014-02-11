@@ -3,7 +3,7 @@ code {
 	color: #FC5A8D;
 	background-color: #FFFFFF; 
 	line-height:90%;
-	font-weight: 900;
+	font-weight: 600;
 }
 
 .highlight .hll { background-color: #49483e }
@@ -66,4 +66,4 @@ code {
 .highlight .vg { color: #f8f8f2 } /* Name.Variable.Global */
 .highlight .vi { color: #f8f8f2 } /* Name.Variable.Instance */
 .highlight .il { color: #ae81ff } /* Literal.Number.Integer.Long */
-.highlight  { background: #555555; color: #f8f8f2 }
+.highlight  { background: #333333; color: #f8f8f2 }
