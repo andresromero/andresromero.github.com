@@ -4,6 +4,8 @@ title: DOM via PHP
 ---
 Langage de script pour création de pages Web dynamiques, un fichier PHP est un fichier HTML avec du code PHP.
 
+[**Download examples**](php-dom-examples.tar.gz)
+
 {% highlight php %}
 <html>
 <body>
