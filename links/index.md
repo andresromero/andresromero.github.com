@@ -10,6 +10,7 @@ title: Links
 
 ### Massive Data Mining
 [Tutorials Hadoop and MapReduce](http://importantfish.com/)
+
 [Coursera Data Science Lectures](https://class.coursera.org/datasci-001/lecture)
 
 ### History Of Technology, Cybernetics, Information Theory
