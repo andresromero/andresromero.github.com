@@ -2,11 +2,15 @@
 layout: masonry
 title: Links
 ---
+### Links France
+[ISIS Information Signal Image and Vision](http://gdr-isis.fr/)
+
 ### Pláticas de Ciencia y Tecnología en la Casa de México en París 
 [Historia de las Ciencias y Tecnologías de la Información](../lectures/casaMéxico.pdf)
 
 ### Massive Data Mining
 [Tutorials Hadoop and MapReduce](http://importantfish.com/)
+[Coursera Data Science Lectures](https://class.coursera.org/datasci-001/lecture)
 
 ### History Of Technology, Cybernetics, Information Theory
 [Bernard Dionysius Geoghegan](http://bernardg.com/)
