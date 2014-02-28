@@ -159,7 +159,7 @@ for k1 in users.keys():
         if flag==False:
             recommendations.append((k2,n))
     recommendations = sorted(recommendations,key=lambda x: x[0])
-    recommendations = sorted(recommendations,key=lambda x: x[1])
+    recommendations = sorted(recommendations,key=lambda x: x[1],reverse=True)
     if len(recommendations)>0:
         recommendations = list(map(str,zip(*recommendations)[0]))
         print k1,"\t",','.join(recommendations[:n_rec])
@@ -193,14 +193,14 @@ Using the homework dataset, and the user keys IDs 924,8941,8942,9019,9020,9021,9
 
 {% highlight bash%}
 924      439,2409,6995,11860,15416,43748,45881
-8941     8940,8943,8944
-8942     8940,8943,8944,8939
-9019     317,9023,9022
-9020     317,9023,9016,9017,9022,9021
-9021     317,9023,9016,9017,9022,9020
-9022     317,9016,9017,9023,9019,9020,9021
+8941     8943,8944,8940
+8942     8939,8940,8943,8944
+9019     9022,317,9023
+9020     9021,9016,9017,9022,317,9023
+9021     9020,9016,9017,9022,317,9023
+9022     9019,9020,9021,317,9016,9017,9023
 9990     13134,13478,13877,34299,34485,34642,37941
-9992     9991,35667,9987,9989
-9993     13134,13478,13877,34299,34485,34642,37941,9991
+9992     9987,9989,35667,9991
+9993     9991,13134,13478,13877,34299,34485,34642,37941
 {% endhighlight %}
 
