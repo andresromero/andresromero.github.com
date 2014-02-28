@@ -1,6 +1,6 @@
 ---
 layout: post
-title: People you might know
+title: People you may know
 ---
 
 The idea here is to explain how to use *MapReduce* to process a social network a propose friendship recommendations according to the number of mutual friends.
@@ -17,7 +17,7 @@ The idea here is to develop an algorithm such that for each user $$U$$, the algo
 
 `<USER><TAB><Recommendations>`,
 
-where `<USER>` is a unique ID correponding to a user and `<Recommendations>` is a comma separated list of unique ID's corresponding to the algorithm's recommendations of people that `<USER>` might know, ordered in decreasing number of mutual friends.
+where `<USER>` is a unique ID correponding to a user and `<Recommendations>` is a comma separated list of unique ID's corresponding to the algorithm's recommendations of people that `<USER>` may know, ordered in decreasing number of mutual friends.
 
 Using *MapReduce* this problem can be easily solved using the following procedure:
 
