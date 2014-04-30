@@ -23,7 +23,17 @@ $$
 
 La frecuencia del término $$i$$ en el documento $$j$$ ($$f_{ij}$$) es normalizada dividiendola entre el número máximo de ocurrencias de cualquier término en el mismo documento (quizás sería conveniente remover primero las palabras de parada). Así, el término más utilizado en el documento $$j$$ recibe $$TF = 1$$.
 
-El término *IDF* es definido de la siguiente manera. Supongamos que el término $$i$$ aparece en $$n_i$$ documentos en una colección de $$N$$ documentos. La frecuencia inversa del documento es $$IDF_i = \log_2(N/n_i)$$. Así, la medición $$TF.IDF$$ para el término $$i$$ en el documento $$j$$ es definida como $$TF_{ij} \times IDF_i$$. Los términos con TF.IDF más alta son los términos que mejor caracterizan el tópico de un documento.
+El término *IDF* es definido de la siguiente manera. Supongamos que el término $$i$$ aparece en $$n_i$$ documentos en una colección de $$N$$ documentos. 
+
+La frecuencia inversa del documento es 
+
+$$
+\begin{equation}
+    IDF_i = \log_2(N/n_i).
+\end{equation}
+$$. 
+
+Así, la medición $$TF.IDF$$ para el término $$i$$ en el documento $$j$$ es definida como $$TF_{ij} \times IDF_i$$. Los términos con TF.IDF más alta son los términos que mejor caracterizan el tópico de un documento.
 
 ####Ejemplo
 

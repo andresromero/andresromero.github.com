@@ -13,7 +13,7 @@
 }
 
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-body, html { font-size: 105%; padding: 0; margin: 0;}
+body, html { font-size: 100%; padding: 0; margin: 0;}
 
 /* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
 .clearfix:before, .clearfix:after { content: " "; display: table; }
@@ -25,8 +25,8 @@ body {
 	/*background-image:url('/static/images/black_linen_v2.png');*/
 	/*background-color: #555555;*/
 	font-weight: 200;
-	background-color: #FFFFFF;
-	line-height:150%;
+	/*background-color: #FFFFFF;*/
+	line-height:100%;
 }
 
 a {
@@ -36,9 +36,9 @@ a {
 }
 
 /*	Blockquotes  */
-blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #555555; font-style: italic; }
+blockquote, blockquote p { font-size: 110%; line-height: 24px; color: #555555; font-style: italic; }
 blockquote { margin: 0 0 20px; padding-left: 20px; padding-right: 20px; border-left: 5px solid #D25252; }
-blockquote cite { display: block; font-size: 12px; color: #555555; }
+blockquote cite { display: block; font-size: 100%; color: #555555; }
 blockquote cite:before { content: "\2014 \0020"; }
 blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #555555; }
 
@@ -50,6 +50,7 @@ a:active {
 }
 
 h1 {color:#F555555;}
+h2 {color:#F555555; font-size:150%;}
 
 a:hover {border-bottom: 0px solid; color: #00000; text-decoration: none;}
 
@@ -69,7 +70,7 @@ a:hover {border-bottom: 0px solid; color: #00000; text-decoration: none;}
 }
 
 .container > header h1 {
-	font-size: 2.625em;
+	font-size: 50px%;
 	line-height: 1.3;
 	margin: 0;
 	font-weight: 300;

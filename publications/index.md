@@ -2,6 +2,13 @@
 layout: masonry
 title: Andrés Romero Mier y Terán
 ---
+# Thesis
+
+[PhD Manuscript](./thesis.pdf)
+
+[Slides PhD defense](./soutenance2013.pdf)
+
+
 <h1>Conference and Journal publications:</h1>
 <div class="row">
 	<div class="container">
