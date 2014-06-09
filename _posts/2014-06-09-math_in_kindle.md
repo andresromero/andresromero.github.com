@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Math and equations in Kindle documents
+title:  Kindle and math using Pandoc
 ---
 
 {% highlight bash %}
