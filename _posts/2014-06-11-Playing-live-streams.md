@@ -3,14 +3,18 @@ layout: masonry
 title: Playing live RTMP streams
 ---
 
+## About rtmpSnoop 
+
 I've just found Andrea Fabrizi's script which allows to recover the RTMP parameters to play live streams in media players such as VLC, this thing interests me because I want to play this kind of streams on my Raspberry PI using Omxplayer.
 
 The program is called `rtmpSnoop` and you can find it on [GitHub](https://github.com/andreafabrizi/rtmpSnoop).
 
+## Instructions
+
 Once you have cloned `rtmpSnoop` you just need to run the script (as root)
 
 {% highlight bash %}
-# ./rtmpSnoop.py -i wlp18s0 --out-rtmpdump
+./rtmpSnoop.py -i wlp18s0 --out-rtmpdump # as root
 {% endhighlight %}
 
 and open a webpage where a RTMP live stream is playing, then the script will print something like this

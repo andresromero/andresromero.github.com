@@ -2,6 +2,7 @@
 layout: masonry
 title: Links
 ---
+
 ### Talks and conferences slides 
 * [Historia de las Ciencias y Tecnologías de la Información](../lectures/casaMéxico.pdf)
 
@@ -9,6 +10,8 @@ title: Links
 * [ISIS Information Signal Image and Vision](http://gdr-isis.fr/)
 
 ### Massive Data Mining
+* [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php)
+
 * [Edwin Cheng's Blog](http://blog.echen.me/)
 
 * [Tutorials Hadoop and MapReduce](http://importantfish.com/)
@@ -27,7 +30,8 @@ title: Links
 * [Nichoas G Carr](http://www.nicholasgcarr.com/)
 
 
-### The Machine Learning Summer School 2013 
+### Machine Learning 
+* [MIT machine learning Open Course Ware lectures](http://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/) 
 * [Max Planck Institute for Intelligent Systems](http://mlss.tuebingen.mpg.de/speakers.html)
 
 ### Algorithm Visualizations
@@ -37,3 +41,14 @@ title: Links
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 * [Algorithms MIT Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+
+### Signal Processing Lectures
+
+* [Stephen Roberts](http://www.robots.ox.ac.uk/~sjrob/Teaching/SP/)
+
+### Tutorials
+* [R Cookbook](http://www.cookbook-r.com/Graphs/)
+
+### $$\latex$$ to Ebook conversion tools
+
+* [tex2ebook](https://github.com/rzoller/tex2ebook)

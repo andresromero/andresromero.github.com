@@ -1,6 +1,6 @@
 /* General Demo Style */
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
-
+/*@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);*/
+@import url(http://fonts.googleapis.com/css?family=Vollkorn:300,400,700);
 @font-face {
 	font-family: 'codropsicons';
 	src:url('../fonts/codropsicons/codropsicons.eot');
@@ -20,13 +20,15 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 .clearfix:after { clear: both; }
 
 body {
-	font-family: 'Lato', Calibri, Arial, sans-serif;
+	font-family: 'Vollkorn', Calibri, Arial, sans-serif;
 	color: #555555;
 	/*background-image:url('/static/images/black_linen_v2.png');*/
 	/*background-color: #555555;*/
-	font-weight: 200;
+	font-weight: 75;
+	font-size: 125%;
 	/*background-color: #FFFFFF;*/
-	line-height:100%;
+	line-height:125%;
+	text-align:justify;
 }
 
 a {
@@ -49,8 +51,10 @@ a:active {
 	color: r555555(1,1,1,.1);
 }
 
-h1 {color:#F555555;}
-h2 {color:#F555555; font-size:150%;}
+h1 {color:#F555555;line-height:200%;
+}
+h2 {color:#F555555; font-size:125%; line-height:200%;
+}
 
 a:hover {border-bottom: 0px solid; color: #00000; text-decoration: none;}
 
