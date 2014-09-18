@@ -3,6 +3,9 @@ layout: masonry
 title: Links
 ---
 
+### Learning Git
+* [Git references](http://gitref.org/basic/)
+
 ### Talks and conferences slides 
 * [Historia de las Ciencias y Tecnologías de la Información](../lectures/casaMéxico.pdf)
 
