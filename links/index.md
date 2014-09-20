@@ -2,6 +2,8 @@
 layout: masonry
 title: Links
 ---
+### Design Patterns
+* [Design Patterns using C++](http://www.sourcetricks.com/p/design-patterns-using-c.html)
 
 ### Learning Git
 * [Git references](http://gitref.org/basic/)
