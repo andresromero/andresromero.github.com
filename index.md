@@ -18,7 +18,7 @@ title: Andrés Romero Mier y Terán
 	</div>
 	<div class="span9">		
 		<h2 id="about-me">About me</h2>
-		<p>I am a R&D Software Engineer in Computer Vision. I work on the design and evaluation of diferent image recognition algorithms at <a ref="www.planorama.com">The Planorama Group</a>. I got a PhD on Computer Vision and Architecture in 2013</p>
+		<p>I am a R&D Software Engineer in Computer Vision. I work on the design and evaluation of diferent image recognition algorithms at <a href="www.planorama.com">The Planorama Group</a>. I got a PhD on Computer Vision and Architecture in 2013</p>
 
 		<h2 id="i-classicon-beaker-icon-1xi-research-interests"><i class="icon-beaker icon-1x"></i> Research Interests</h2>
 		<blockquote>
