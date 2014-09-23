@@ -18,7 +18,7 @@ title: Andrés Romero Mier y Terán
 	</div>
 	<div class="span9">		
 		<h2 id="about-me">About me</h2>
-		<p>I am lecturer and researcher from the Parallel Systems team at the <a href="http://www.lri.fr">Laboratoire de Recherche en Informatique</a> from <a href="http://www.u-psud.fr">Paris Sud University XI</a>, where I work on the design, acceleration and implementation of computer vision algorithms.</p>
+		<p>I am a R&D Software Engineer in Computer Vision. I work on the design and evaluation of diferent image recognition algorithms for the [Planorama Group](www.planorama.com). I got a PhD on Computer Vision and Architecture in 2013</p>
 
 		<h2 id="i-classicon-beaker-icon-1xi-research-interests"><i class="icon-beaker icon-1x"></i> Research Interests</h2>
 		<blockquote>
