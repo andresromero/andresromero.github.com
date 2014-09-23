@@ -4,6 +4,7 @@ title: Links
 ---
 ### Design Patterns
 * [Design Patterns using C++](http://www.sourcetricks.com/p/design-patterns-using-c.html)
+* [Design Patterns using Python](https://github.com/faif/python-patterns)
 
 ### Learning Git
 * [Git references](http://gitref.org/basic/)
