@@ -2,6 +2,8 @@
 layout: masonry
 title: Links
 ---
+[Articles of interest](./articles_of_interest.html)
+
 ### Design Patterns
 * [Design Patterns using C++](http://www.sourcetricks.com/p/design-patterns-using-c.html)
 * [Design Patterns using Python](https://github.com/faif/python-patterns)
