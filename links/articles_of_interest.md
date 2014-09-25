@@ -1,3 +1,8 @@
+---
+layout: masonry
+title: Articles of interest
+---
+
 ## Image retrieval and object recognition
 
 ### [Does it make sense to measure recall in recommender systems?](http://stats.stackexchange.com/questions/24645/does-it-make-sense-to-measure-recall-in-recommender-systems)
