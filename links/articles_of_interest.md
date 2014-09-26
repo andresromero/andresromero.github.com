@@ -12,3 +12,5 @@ title: Articles of interest
 [How to plot Precision-Recall graphs for Content-Based Image Retrieval](http://stackoverflow.com/questions/25799107/how-do-i-plot-precision-recall-graphs-for-content-based-image-retrieval-in-matla)
 
 [Pyimagesearch Deep Learning Training example](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
+
+[Deep Learning NLP](http://radimrehurek.com/2013/09/deep-learning-with-word2vec-and-gensim/)
