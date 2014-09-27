@@ -6,6 +6,7 @@ title: Links
 ### Deep Learning
 * [Articles of interest](./articles_of_interest.html)  
 * [Richard	Socher's Deep Learning Tutorial for NLP applications](http://nlp.stanford.edu/~socherr/SocherBengioManning-DeepLearning-ACL2012-20120707-NoMargin.pdf)  
+* [CVPR 2012](Deep Learning Tutorial)
 
 ### Design Patterns
 * [Design Patterns using C++](http://www.sourcetricks.com/p/design-patterns-using-c.html)
