@@ -14,3 +14,5 @@ title: Articles of interest
 [Pyimagesearch Deep Learning Training example](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 
 [Deep Learning NLP](http://radimrehurek.com/2013/09/deep-learning-with-word2vec-and-gensim/)
+
+[100 Best GitHub: Deep Learning](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
