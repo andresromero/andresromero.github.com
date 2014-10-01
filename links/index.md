@@ -9,10 +9,13 @@ title: Links
 * [CVPR 2012](Deep Learning Tutorial)
 * [Deep Learning with Theano tutorial Ebook (mobi)](deepLearning.mobi)
 * [Yoshua Bengio, Ian Goodfellow and Aaron Courville's Draft Chapters](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+* [How to build and run your first deep learning network](http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html)
+* [FastML Machine Learning made easy](http://fastml.com/object-recognition-in-images-with-cuda-convnet/)
+
 ### Design Patterns
 * [Design Patterns using C++](http://www.sourcetricks.com/p/design-patterns-using-c.html)
 * [Design Patterns using Python](https://github.com/faif/python-patterns)
-* [FastML Machine Learning made easy](http://fastml.com/object-recognition-in-images-with-cuda-convnet/)
+
 
 ### Learning Git
 * [Git references](http://gitref.org/basic/)
