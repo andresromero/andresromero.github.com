@@ -11,6 +11,7 @@ title: Links
 * [Yoshua Bengio, Ian Goodfellow and Aaron Courville's Draft Chapters](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 * [How to build and run your first deep learning network](http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html)
 * [FastML Machine Learning made easy](http://fastml.com/object-recognition-in-images-with-cuda-convnet/)
+* [Deep Learning Tutorial](http://www.cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf)
 
 ### Design Patterns
 * [Design Patterns using C++](http://www.sourcetricks.com/p/design-patterns-using-c.html)
