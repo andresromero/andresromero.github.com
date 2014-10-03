@@ -49,6 +49,7 @@ title: Links
 
 
 ### Machine Learning 
+* [Performance metrics](http://sebastianraschka.com/PDFs/articles/performance_metrics.pdf)
 * [MIT machine learning Open Course Ware lectures](http://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/) 
 * [Max Planck Institute for Intelligent Systems](http://mlss.tuebingen.mpg.de/speakers.html)
 
