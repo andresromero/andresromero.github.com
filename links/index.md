@@ -13,6 +13,7 @@ title: Links
 * [FastML Machine Learning made easy](http://fastml.com/object-recognition-in-images-with-cuda-convnet/)
 * [Deep Learning Tutorial](http://www.cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf)
 * [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
+* [Deep Learning on Amazon EC2 GPU with Python and nolearn](http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/)
 
 ### Design Patterns
 * [Design Patterns using C++](http://www.sourcetricks.com/p/design-patterns-using-c.html)
