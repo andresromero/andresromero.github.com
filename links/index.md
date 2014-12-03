@@ -7,10 +7,18 @@ title: Links
 * [Articles of interest](./articles_of_interest.html)  
 * [Richard	Socher's Deep Learning Tutorial for NLP applications](http://nlp.stanford.edu/~socherr/SocherBengioManning-DeepLearning-ACL2012-20120707-NoMargin.pdf)  
 * [CVPR 2012](Deep Learning Tutorial)
+* [Deep Learning with Theano tutorial Ebook (mobi)](deepLearning.mobi)
+* [Yoshua Bengio, Ian Goodfellow and Aaron Courville's Draft Chapters](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+* [How to build and run your first deep learning network](http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html)
+* [FastML Machine Learning made easy](http://fastml.com/object-recognition-in-images-with-cuda-convnet/)
+* [Deep Learning Tutorial](http://www.cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf)
+* [Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
+* [Deep Learning on Amazon EC2 GPU with Python and nolearn](http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/)
 
 ### Design Patterns
 * [Design Patterns using C++](http://www.sourcetricks.com/p/design-patterns-using-c.html)
 * [Design Patterns using Python](https://github.com/faif/python-patterns)
+
 
 ### Learning Git
 * [Git references](http://gitref.org/basic/)
@@ -44,6 +52,7 @@ title: Links
 
 
 ### Machine Learning 
+* [Performance metrics](http://sebastianraschka.com/PDFs/articles/performance_metrics.pdf)
 * [MIT machine learning Open Course Ware lectures](http://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/) 
 * [Max Planck Institute for Intelligent Systems](http://mlss.tuebingen.mpg.de/speakers.html)
 
